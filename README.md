@@ -10,15 +10,20 @@
 여러 프로젝트를 개발한 코드와 상세 설명을 담고 있습니다. 각 프로젝트명을 클릭하면 레포지토리로 이동합니다.
 
 * **🛡️ [iSBOMB](https://github.com/minchaeki/iSBOMB)**
-    * **Description**: AI 공급망의 투명성 확보를 위한 **블록체인 기반 AIBOM 무결성 거버넌스 프레임워크**입니다.
-    * **Key Features**: DID(분산 식별자) 기반 신원 인증, IPFS를 활용한 대용량 데이터 분산 저장, Polygon 네트워크상의 스마트 컨트랙트를 통한 무결성 증명.
-    * **Achievement**: **ICACT 2026 국제 학회 논문 발표** ("A Blockchain-based Governance Framework for AIBOM Integrity...")
+    * **Description**: AI 공급망의 투명성 확보를 위한 **블록체인 기반 AIBOM 무결성 거버넌스 프레임워크**
+    * **Key Features**: DID(분산 식별자) 기반 신원 인증, IPFS 활용 분산 저장, Polygon 스마트 컨트랙트를 통한 무결성 증명
+    * **Achievements**: 
+        * **ICACT 2026 국제 학술대회 논문 게재 및 발표**
+        * **우수사업계획서상** | OO대학교 상상기업 창업대회
+        * **장려상** | OO대학교 창업 개발 경진대회
 
 * **🔍 [Tracer](https://github.com/minchaeki/Tracer)**
-    * **Description**: 제조 및 유통 과정의 투명성을 위한 **블록체인 기반 전자 부품 단위 이력 추적 시스템**입니다.
-    * **Key Features**: 완제품부터 부속품까지의 계층적 트리 구조 시각화, MetaMask 연동, Ethers.js를 이용한 온체인 데이터 기록 및 조회.
-    * **Achievement**: **2025 한국정보기술학회(KIIT) 논문 발표** ("블록체인 기반 전자 부품 단위 이력 추적 시스템 설계 및 구현")
-
+    * **Description**: 제조 및 유통 과정의 투명성을 위한 **블록체인 기반 전자 부품 단위 이력 추적 시스템**
+    * **Key Features**: 부속품 단위 계층적 트리 구조 시각화, MetaMask 연동, Ethers.js 온체인 데이터 핸들링
+    * **Achievements**: 
+        * **금상** | OO대학교 심화캡스톤경진대회
+        * **우수논문상(동상)** | 한국정보기술학회(KIIT) 대학생 논문대회
+        * **KIIT 학술대회 논문 발표** ("블록체인 기반 전자 부품 단위 이력 추적 시스템...")
 * **💳 [Wooricard Analysis](https://github.com/minchaeki/wooricard_analysis)**
     * 우리 FIS 아카데미 과정 중 수행한 **우리카드 데이터 분석 및 시각화** 프로젝트입니다.
 
