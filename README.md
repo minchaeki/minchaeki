@@ -1,8 +1,13 @@
 ### 👋 Hi! I'm Minchae Kim!
 
-안녕하세요! "블록체인 기반 보안 메커니즘을 연구하고, 클라우드 네이티브 백엔드로 구현하는 엔지니어 김민채입니다." 단순한 기능 구현을 넘어 기술의 보안적 무결성을 논문으로 증명하며, 견고하고 신뢰할 수 있는 시스템 아키텍처를 설계합니다.
-* 🔗 **LinkedIn**: [Minchae Kim](https://www.linkedin.com/in/minchae-kim-b2a3812a8/)
+**연구 기반의 기술력으로 보안과 무결성을 설계하는 엔지니어 김민채입니다.**
+단순한 구현을 넘어 논문 발표를 통해 기술의 깊이를 증명하며, 아래 세 가지 분야의 전문성을 지향합니다.
 
+* **🔗 Blockchain Engineer**: 블록체인 기반의 무결성 거버넌스 프레임워크와 이력 추적 시스템을 설계하고 연구합니다. (Smart Contract, DID, IPFS)
+* **⚙️ Backend Developer**: 고가용성 아키텍처를 기반으로 비즈니스 로직을 안정적으로 현실화하는 백엔드 서비스를 구축합니다. (Spring Boot, FastAPI, Flask)
+* **☁️ Cloud Engineer**: 컨테이너 인프라와 클라우드 네이티브 환경을 설계하고 효율적으로 운영할 수 있는 역량을 갖추고 있습니다. (AWS, GCP, Docker)
+
+#### 🔗 **LinkedIn**: [Minchae Kim](https://www.linkedin.com/in/minchae-kim-b2a3812a8/)
 ---
 
 ### 🚀 Featured Projects (Repository) ✍️
