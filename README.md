@@ -28,7 +28,9 @@
     * 우리 FIS 아카데미 과정 중 수행한 **우리카드 데이터 분석 및 시각화** 프로젝트입니다.
 
 * **🛠️ [O2A](https://github.com/minchaeki/O2A)**
-    * Open-to-Action 또는 관련 자동화 프로세스 설계를 다루는 프로젝트입니다.
+    * **Description**: 크래프톤(KRAFTON) 하계 웹 개발 프로그램에서 제작한 **나만의 레시피 공유 커뮤니티**
+    * **Key Features**: Flask 기반 백엔드 아키텍처 설계, MongoDB NoSQL 연동, 사용자 평점 기반 레시피 랭킹 로직 및 실시간 댓글 기능
+    * **Role**: 백엔드 API 설계 및 좋아요/댓글/랭킹 시스템 전담 구현
 
 ---
 
