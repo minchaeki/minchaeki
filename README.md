@@ -15,7 +15,7 @@
     * **Achievement**: **ICACT 2026 국제 학회 논문 발표** ("A Blockchain-based Governance Framework for AIBOM Integrity...")
 
 * **🔍 [Tracer](https://github.com/minchaeki/Tracer)**
-    * **Description**: 제조 및 유통 과정의 투명성을 위한 **전자 부품 단위 이력 추적 시스템**입니다.
+    * **Description**: 제조 및 유통 과정의 투명성을 위한 **블록체인 기반 전자 부품 단위 이력 추적 시스템**입니다.
     * **Key Features**: 완제품부터 부속품까지의 계층적 트리 구조 시각화, MetaMask 연동, Ethers.js를 이용한 온체인 데이터 기록 및 조회.
     * **Achievement**: **2025 한국정보기술학회(KIIT) 논문 발표** ("블록체인 기반 전자 부품 단위 이력 추적 시스템 설계 및 구현")
 
