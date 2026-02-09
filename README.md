@@ -23,7 +23,7 @@ Google Cloud Certified Professional Machine Learning Engineer
 정보처리기사
 Toeic Speaking IH
 
-### 🛠️ Tech Skills
+
 
 ## Tech Skills 🛠️
 |Category| Stack |
