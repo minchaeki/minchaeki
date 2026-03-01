@@ -1,41 +1,50 @@
 ### 👋 Hi! I'm Minchae Kim!
 
-**연구 기반의 기술력으로 보안과 무결성을 설계하는 엔지니어 김민채입니다.**
-단순한 구현을 넘어 논문 발표를 통해 기술의 깊이를 증명하며, 아래 세 가지 분야의 전문성을 지향합니다.
+*보안과 인프라의 교차점에서 문제를 해결하는 엔지니어, 김민채입니다.**
+취약점 탐지 자동화부터 데이터 무결성 검증 시스템까지 — 보안 위협에 실질적으로 대응할 수 있는 시스템을 직접 설계하고 구현합니다.
 
-* **🔗 Blockchain Engineer**: 블록체인 기반의 무결성 거버넌스 프레임워크와 이력 추적 시스템을 설계하고 연구합니다. (Smart Contract, DID, IPFS)
-* **⚙️ Backend Developer**: 고가용성 아키텍처를 기반으로 비즈니스 로직을 안정적으로 현실화하는 백엔드 서비스를 구축합니다. (Spring Boot, FastAPI, Flask)
-* **☁️ Cloud Engineer**: 컨테이너 인프라와 클라우드 네이티브 환경을 설계하고 효율적으로 운영할 수 있는 역량을 갖추고 있습니다. (AWS, GCP, Docker)
-
+* **🛡️ Security Engineer** : 보안 뉴스 자동화·취약점 탐지 시스템을 구축하고, 데이터 무결성을 검증하는 거버넌스 프레임워크를 연구·개발합니다.
+* **☁️ System / Cloud Engineer** : 컨테이너 기반 인프라와 클라우드 네이티브 환경을 설계하고 안정적으로 운영합니다. (AWS, GCP, Docker)
+* **⚙️ Backend Developer** : 고가용성 아키텍처를 기반으로 비즈니스 로직을 현실화하는 백엔드 서비스를 구축합니다. (Spring Boot, FastAPI, Flask)
+  
 #### 🔗 **LinkedIn**: [Minchae Kim](https://www.linkedin.com/in/minchae-kim-b2a3812a8/)
+#### 📬 **Contact**: kmc12291@naver.com
+
+
 ---
 
-### 🚀 Featured Projects (Repository) ✍️
+### 🚀 Featured Projects ✍️
 
-여러 프로젝트를 개발한 코드와 상세 설명을 담고 있습니다. 각 프로젝트명을 클릭하면 레포지토리로 이동합니다.
+각 프로젝트명을 클릭하면 레포지토리로 이동합니다.
 
-* **🛡️ [iSBOMB](https://github.com/minchaeki/iSBOMB)**
-    * **Description**: AI 공급망의 투명성 확보를 위한 **블록체인 기반 AIBOM 무결성 거버넌스 프레임워크**
-    * **Key Features**: DID(분산 식별자) 기반 신원 인증, IPFS 활용 분산 저장, Polygon 스마트 컨트랙트를 통한 무결성 증명
-    * **Achievements**: 
+* **🛡️ [n8n Security News Bot](https://github.com/minchaeki/n8n-security-news-bot)**
+    * **Description** : 보안 뉴스 자동 수집 → AI 취약점 분석 → 내부 자산(CMDB) 매칭 → 경보 발송까지 자동화한 **보안 동향 모니터링 & 위협 탐지 시스템**
+    * **Key Features** : n8n 워크플로우 자동화, Groq AI 기반 CVE·심각도 구조화 분석, PostgreSQL CMDB 자산 매칭, 일일 보안 뉴스레터 발송
+    * **Tech Stack** : n8n, PostgreSQL, Groq AI, Docker, JavaScript
+
+* **🔒 [iSBOMB](https://github.com/minchaeki/iSBOMB)**
+    * **Description** : AI 소프트웨어 공급망의 투명성과 무결성을 검증하는 **AIBOM 거버넌스 프레임워크**
+    * **Key Features** : 분산 식별자(DID) 기반 신원 인증, IPFS 분산 저장, 스마트 컨트랙트를 통한 무결성 증명
+    * **Achievements** :
         * **ICACT 2026 국제 학술대회 논문 게재 및 발표**
         * **우수사업계획서상** | OO대학교 상상기업 창업대회
         * **장려상** | OO대학교 창업 개발 경진대회
 
 * **🔍 [Tracer](https://github.com/minchaeki/Tracer)**
-    * **Description**: 제조 및 유통 과정의 투명성을 위한 **블록체인 기반 전자 부품 단위 이력 추적 시스템**
-    * **Key Features**: 부속품 단위 계층적 트리 구조 시각화, MetaMask 연동, Ethers.js 온체인 데이터 핸들링
-    * **Achievements**: 
+    * **Description** : 제조·유통 과정에서 전자 부품의 이력을 투명하게 추적하는 **부품 단위 이력 추적 시스템**
+    * **Key Features** : 부속품 단위 계층적 트리 구조 시각화, 온체인 데이터 핸들링, MetaMask 연동
+    * **Achievements** :
         * **금상** | OO대학교 심화캡스톤경진대회
         * **우수논문상(동상)** | 한국정보기술학회(KIIT) 대학생 논문대회
-        * **KIIT 학술대회 논문 발표** ("블록체인 기반 전자 부품 단위 이력 추적 시스템...")
-* **💳 [Wooricard Analysis](https://github.com/minchaeki/wooricard_analysis)**
-    * 우리 FIS 아카데미 과정 중 수행한 **우리카드 데이터 분석 및 시각화** 프로젝트입니다.
+        * **KIIT 학술대회 논문 발표**
 
-* **🛠️ [O2A](https://github.com/minchaeki/O2A)**
-    * **Description**: 크래프톤(KRAFTON) 하계 웹 개발 프로그램에서 제작한 **나만의 레시피 공유 커뮤니티**
-    * **Key Features**: Flask 기반 백엔드 아키텍처 설계, MongoDB NoSQL 연동, 사용자 평점 기반 레시피 랭킹 로직 및 실시간 댓글 기능
-    * **Role**: 백엔드 API 설계 및 좋아요/댓글/랭킹 시스템 전담 구현
+* **💳 [Wooricard Analysis](https://github.com/minchaeki/wooricard_analysis)**
+    * 우리 FIS 아카데미 과정 중 수행한 **우리카드 데이터 분석 및 시각화** 프로젝트
+
+* **🍳 [O2A](https://github.com/minchaeki/O2A)**
+    * **Description** : 크래프톤(KRAFTON) 하계 웹 개발 프로그램에서 제작한 **레시피 공유 커뮤니티 서비스**
+    * **Key Features** : Flask 기반 RESTful API 설계, MongoDB 연동, 사용자 평점 기반 랭킹 및 실시간 댓글 시스템
+    * **Role** : 백엔드 API 설계 및 좋아요/댓글/랭킹 시스템 전담
 
 ---
 
@@ -47,40 +56,45 @@
 
 ---
 
+### 📝 Publications
+* **ICACT 2026** — AI 공급망 무결성 거버넌스 프레임워크 관련 국제 논문 게재 및 발표
+* **KIIT 학술대회** — 블록체인 기반 전자 부품 단위 이력 추적 시스템 논문 발표
+
+---
+
 ### 💻 Experience & Education
 
 * **우리 FIS 아카데미 - 클라우드 엔지니어링** `2025.12 ~ 2026.06`
     * 클라우드 인프라 구축 및 엔지니어링 실무 과정 이수 중
 
 * **정보보호연구실(ISLAB) 학부연구생** `2024.05 ~ 2025.12`
-    * 블록체인 기반 시스템 설계 및 무결성 추적 연구 수행
-    * 물류 추적 및 AI 보안 거버넌스 플랫폼 연구·개발 (논문 발표 2건)
+    * 데이터 무결성 추적 및 AI 보안 거버넌스 플랫폼 연구·개발
+    * 국내·국제 학술대회 논문 발표 2건
 
 * **크래프톤(KRAFTON) 하계 웹 개발 프로그램** `2025.08`
-    * Flask 기반 백엔드 API 설계 및 MongoDB 연동
-    * AWS 환경 내 웹 서비스 배포 및 레시피 서비스 랭킹 로직 구현
+    * Flask 기반 백엔드 API 설계 및 AWS 환경 웹 서비스 배포
 
 * **UCSD Qualcomm Institute AI Study** `2025.07`
     * **GCP ML Professional 자격 취득** 및 Vertex AI/TensorFlow 실습
     * 신용카드 이상 거래 탐지 시스템(MLOps) 프로젝트 수행
 
 * **Uppsala Security - Bootcamp Programme (Singapore)** `2024.08`
-    * 글로벌 블록체인 구조 학습 및 이더리움 기반 비즈니스 모델 설계
+    * 글로벌 블록체인 구조 학습 및 비즈니스 모델 설계
     * 빅테크 현직자 멘토링을 통한 기술 사업화 전략 수립
 
 * **K-Software Empowerment BootCamp** `2023.12 ~ 2024.11`
     * Java Spring 기반 백엔드 및 웹 서비스 개발자 과정 수료
-    * Flutter 기반 질병 맞춤형 식단 추천 시스템 프론트엔드 전담 개발
-
 
 ---
 
 ### 📚 Certification
 * **Google Cloud Certified Professional Machine Learning Engineer**
 * **정보처리기사**
-* **Toeic Speaking IH**
+* **TOEIC Speaking IH**
 
 ---
+
+
 
 ## Tech Skills 🛠️
 |Category| Stack |
