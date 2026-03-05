@@ -18,8 +18,8 @@
 각 프로젝트명을 클릭하면 레포지토리로 이동합니다.
 
 * **🛡️ [n8n Security News Bot](https://github.com/minchaeki/n8n-security-news-bot)**
-    * **Description** : 보안 뉴스 자동 수집 → AI 취약점 분석 → 내부 자산(CMDB) 매칭 → 경보 발송까지 자동화한 **보안 동향 모니터링 & 위협 탐지 시스템**
-    * **Key Features** : n8n 워크플로우 자동화, Groq AI 기반 CVE·심각도 구조화 분석, PostgreSQL CMDB 자산 매칭, 일일 보안 뉴스레터 발송
+    * **Description** : 보안 뉴스 자동 수집 → 이메일 발송 → AI로 뉴스 분석 및 데이터 구조화 → 내부 자산(CMDB) 매칭 → 경보 발송까지 자동화한 **보안 동향 모니터링 & 위협 탐지 시스템**
+    * **Key Features** : n8n 워크플로우 자동화, Groq AI 기반 뉴스 분석 및 데이터 구조화, PostgreSQL CMDB 자산 매칭, 일일 보안 뉴스레터 발송
     * **Tech Stack** : n8n, PostgreSQL, Groq AI, Docker, JavaScript
 
 * **🔒 [iSBOMB](https://github.com/minchaeki/iSBOMB)**
