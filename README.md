@@ -41,7 +41,7 @@
 * **💳 [Wooricard Analysis](https://github.com/minchaeki/wooricard_analysis)**
     * 우리 FIS 아카데미 과정 중 수행한 **우리카드 데이터 분석 및 시각화** 프로젝트
 
-* **🍳 [O2A](https://github.com/minchaeki/O2A)**
+* **🍳 [밥상뒤엎](https://github.com/minchaeki/O2A)**
     * **Description** : 크래프톤(KRAFTON) 하계 웹 개발 프로그램에서 제작한 **레시피 공유 커뮤니티 서비스**
     * **Key Features** : Flask 기반 RESTful API 설계, MongoDB 연동, 사용자 평점 기반 랭킹 및 실시간 댓글 시스템
     * **Role** : 백엔드 API 설계 및 좋아요/댓글/랭킹 시스템 전담
@@ -63,9 +63,6 @@
 ---
 
 ### 💻 Experience & Education
-
-* **우리 FIS 아카데미 - 클라우드 엔지니어링** `2025.12 ~ 2026.06`
-    * 클라우드 인프라 구축 및 엔지니어링 실무 과정 이수 중
 
 * **정보보호연구실(ISLAB) 학부연구생** `2024.05 ~ 2025.12`
     * 데이터 무결성 추적 및 AI 보안 거버넌스 플랫폼 연구·개발
