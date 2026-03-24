@@ -21,6 +21,16 @@
     * **Description** : 보안 뉴스 자동 수집 → 이메일 발송 → AI로 뉴스 분석 및 데이터 구조화 → 내부 자산(CMDB) 매칭 → 경보 발송까지 자동화한 **보안 동향 모니터링 & 위협 탐지 시스템**
     * **Key Features** : n8n 워크플로우 자동화, Groq AI 기반 뉴스 분석 및 데이터 구조화, PostgreSQL CMDB 자산 매칭, 일일 보안 뉴스레터 발송
     * **Tech Stack** : n8n, PostgreSQL, Groq AI, Docker, JavaScript
+ 
+* **🐧 [FISA-Linux](https://github.com/minchaeki/FISA-Linux)**
+    * **Description** : 카드사 운영 환경을 가정한 리눅스 시스템 로그 분석 실습 — 시스템 운영 관점(DB I/O 이상 탐지)과 보안 관점(침입 탐지·FDS)으로 구성된 **리눅스 기반 이상 탐지 & 모니터링 시스템**
+    * **My Role** : **Part 2. 보안 관점 — 시나리오 1** 담당
+        * `grep` + `jq`로 로그인 실패 감사 로그 추출 및 저장 파이프라인 구현
+        * `awk`로 특정 IP 대역(211.234.x.x) 결제 요청 전수 탐지
+        * 로그인 시각 vs 결제 시각 비교를 통한 봇 의심 패턴 탐지 (15초 이내 고액 결제 감지)
+        * `awk` 복합 조건 필터링으로 USD $1,000 이상 고액 결제 이상 탐지
+        * `find -mmin` + `crontab`으로 10분 주기 해외 로그인 자동 감지 스크립트 구축 → 카드사 **FDS(부정결제 탐지 시스템) 프로토타입** 설계
+    * **Tech Stack** : Linux, Bash, grep, awk, jq, crontab, ELK Stack
 
 * **🔒 [iSBOMB](https://github.com/minchaeki/iSBOMB)**
     * **Description** : AI 소프트웨어 공급망의 투명성과 무결성을 검증하는 **AIBOM 거버넌스 프레임워크**
