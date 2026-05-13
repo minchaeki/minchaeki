@@ -1,6 +1,6 @@
 ## 🌱 My Contributions
 
-![](https://ghchart.rshah.org/minchaeki)
+![](https://ghchart.rshah.org/00bcd4/minchaeki)
 
 
 
